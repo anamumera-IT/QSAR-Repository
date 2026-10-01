@@ -9,7 +9,7 @@ pyasn1
 chembl_webresource_client
 padelpy
 streamlit
-                               # new 
+                               # new Query for deploy
 streamlit
 rdkit
 scikit-learn
