@@ -9,3 +9,10 @@ pyasn1
 chembl_webresource_client
 padelpy
 streamlit
+                               # new 
+streamlit
+rdkit
+scikit-learn
+pandas
+numpy
+chembl_webresource_client
